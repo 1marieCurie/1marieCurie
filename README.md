@@ -1,8 +1,13 @@
+<p align="center">
+  <img src="./my_image.png" width="140">
+</p>
+
 <h1 align="center">Khadija Mellak</h1>
 
 <p align="center">
 Software Engineering & Artificial Intelligence Student<br>
-École Nationale des Sciences Appliquées (ENSA), Fez
+École Nationale des Sciences Appliquées (ENSA), Fez<br>
+Specializing in intelligent systems and full-stack development
 </p>
 
 ---
@@ -15,31 +20,55 @@ I have a strong interest in recommender systems, computer vision, and intelligen
 
 ---
 
+## Experience
+
+**Software Developer Intern — École Polytechnique des Génies (EPG)**  
+July 2025 – August 2025
+
+- Designed and developed a web application for training and course management  
+- Built using React, Laravel, and MySQL  
+- Focused on usability, data structuring, and system performance  
+
+---
+
 ## Featured Projects
 
 ### E-Commerce Platform with Hybrid Recommendation System
-- Full-stack e-commerce application integrating intelligent product recommendations
-- Content-based filtering using TF-IDF and cosine similarity
-- Customer segmentation using RFM analysis and K-Means clustering
-- Technologies: React, Node.js, Flask, MySQL, Scikit-learn
+- Full-stack e-commerce application integrating intelligent product recommendations  
+- Content-based filtering using TF-IDF and cosine similarity  
+- Customer segmentation using RFM analysis and K-Means clustering  
+- Backend APIs with Flask and PHP, database management with MySQL  
+- Focus on personalization, scalability, and user experience  
 
 ---
 
 ### Wildlife Monitoring System (Collaboration)
 Repository: https://github.com/FadwaErrami/wildlife-monitoring
 
-- AI-based system for wildlife detection and monitoring
-- Application of computer vision techniques for real-time analysis
-- Collaborative project with practical environmental applications
+- AI-based system for wildlife detection and monitoring  
+- Application of computer vision techniques for real-time analysis  
+- Designed for practical environmental monitoring use cases  
 
 ---
 
 ### Artificial Intelligence Projects
 
-- Animal Classification using deep learning models (YOLO, Faster R-CNN, DETR)
-- UrbanClean: real-time detection of urban waste using computer vision
-- Energy Consumption Prediction using machine learning models (XGBoost, LSTM)
-- Reinforcement Learning implementations (Q-Learning, SARSA)
+**Computer Vision & Deep Learning**
+- Implemented object detection models (YOLO, Faster R-CNN, DETR, EfficientDet)  
+- Developed classification systems for real-world image datasets  
+- Applied feature extraction and image processing using OpenCV  
+
+**UrbanClean**
+- Real-time detection of unsanitary urban areas using deep learning (YOLO)  
+- Designed for smart city and environmental applications  
+
+**Energy Consumption Prediction**
+- Built predictive models using Ridge, XGBoost, LightGBM, and LSTM  
+- Developed an interactive interface using Streamlit  
+
+**Reinforcement Learning**
+- Implemented Q-Learning, SARSA, and Monte Carlo methods  
+- Applied to intelligent systems such as recommendation strategies  
 
 ---
 
@@ -49,24 +78,41 @@ Repository: https://github.com/FadwaErrami/wildlife-monitoring
 React, Angular, Node.js, Express, Laravel, Spring Boot  
 HTML, CSS, JavaScript
 
-### Artificial Intelligence and Data Science
+### Artificial Intelligence & Data Science
 Python, Scikit-learn, TensorFlow, OpenCV  
 Pandas, NumPy, Matplotlib
 
-### Databases and Tools
-MySQL, MongoDB, Git, REST APIs, AWS (fundamentals)
+### Systems & Infrastructure
+MySQL, MongoDB  
+REST APIs, OAuth  
+AWS (fundamentals)  
+Networking fundamentals (Cisco, Active Directory)
 
 ---
 
-## GitHub Statistics
+## Advanced AI Topics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1marieCurie&show_icons=true" />
-</p>
+- Computer Vision: object detection, classification, feature extraction  
+- Explainable AI concepts applied to vision models  
+- Machine Learning: regression, clustering, model evaluation  
+- Reinforcement Learning: policy-based and value-based methods  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1marieCurie&layout=compact" />
-</p>
+---
+
+## Engineering Skills
+
+- Problem-solving and analytical thinking  
+- Ability to design and structure scalable systems  
+- Autonomy and adaptability in technical environments  
+- Team collaboration and project organization  
+
+---
+
+## Languages
+
+- Arabic: Native  
+- English: Advanced (C1)  
+- French: Intermediate (B2)  
 
 ---
 
@@ -74,7 +120,7 @@ MySQL, MongoDB, Git, REST APIs, AWS (fundamentals)
 
 - Email: mellak71khadija@gmail.com  
 - GitHub: https://github.com/1marieCurie  
-- LinkedIn: (to be added)
+- LinkedIn: https://www.linkedin.com/in/khadija-mellak-090498287/
 
 ---
 
